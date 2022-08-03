@@ -45,3 +45,9 @@ body {
 .weather-details {
   margin-top: 20px;
 }
+
+.credits {
+  font-size: 12px;
+  margin-top: 5px;
+  padding: 0;
+}
